@@ -1,0 +1,2 @@
+faça a seguinte alteração. na parte de visualização e edição dos perfis individuais e comercials, coloque uma opção no final do menu de edição com um botão, pedir orçamento, que na hora que o cliente clicar ele vai entrar em um link wa.me com meu numero 5511966405863 para que ele mande uma mensagem personalizada, que vai conter todas as informaçẽos da pagina, paleta de cor, nomes, etc.
+organize isso em forma de lista (pegue a estrutura da pagina e opcoes de personalizacao para montar os topicos)
