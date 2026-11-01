@@ -1,2 +1,6 @@
-faça a seguinte alteração. na parte de visualização e edição dos perfis individuais e comercials, coloque uma opção no final do menu de edição com um botão, pedir orçamento, que na hora que o cliente clicar ele vai entrar em um link wa.me com meu numero 5511966405863 para que ele mande uma mensagem personalizada, que vai conter todas as informaçẽos da pagina, paleta de cor, nomes, etc.
+faça a seguinte alteração. na parte de visualização e edição dos perfis individuais e comercials, coloque uma opção no final do menu de edição com um botão, pedir orçamento, que na hora que o cliente clicar ele vai entrar em um link wa.me com meu numero 5511924762202 para que ele mande uma mensagem personalizada, que vai conter todas as informaçẽos da pagina, paleta de cor, nomes, etc.
 organize isso em forma de lista (pegue a estrutura da pagina e opcoes de personalizacao para montar os topicos)
+
+corrija todos os formularios, para que quando o cliente clicar pra enviar o orçamento/formulario de contato, vai acontecer o seguinte:
+configure o email para que um contato@infinity-solucoes.com mande msg para: sejaluzluminarias3d@gmail.com e para o cliente
+quando o cliente clicar pra enviar vai abrir o wa.me com o numero 5511924762202 e as informações do formulario que ele esta enviando

@@ -1,0 +1,8 @@
+faça as seguintes alterações:
+na pagina inicial do site, voce vai adicionar uma area de avaliacao, onde o cliente pode fazer avaliações, dando uma nota de 0-5 estrelas, colocando seu nome, endereço de e-mail/numero de telefone (escolher entre) e deixa a avaliação no campo para escrever
+quando ele enviar a mensagem, ela deve aparecer na página automaticamente. faça a segurança para que esses dados como número de cliente, email, ou algo sensível não fique exposto. deixe tudo seguro.
+quando ele fazer a avaliação, configure um sistema de email para disparar um email do contato@infinity-solucoes.com para o infinitysolucoes77@gmail.com, contendo os dados da avaliacao
+
+esse sistema deve enviar tabmém uma mensagem para o email do cliente. Olá NOME, muito obrigado por deixar uma avaliação no nosso site! Sua opinião é muito importante e ficamos felizes em ouvir você!
+Isso deve chegar no email do cliente, a parte do telefone pode deixar que eu faço
+

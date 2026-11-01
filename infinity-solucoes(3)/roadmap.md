@@ -1,0 +1,5 @@
+- [ ] Concluir conexão, verificação e envio do sitemap no Google Search Console; publicar somente com aprovação.
+- [ ] Adicionar Pedir orçamento ao final dos editores com lista completa das personalizações no WhatsApp 5511924762202.
+- [ ] Corrigir formulários para enviar os dados ao WhatsApp 5511924762202 e e-mails ao responsável e ao cliente.
+- [ ] Aguardar verificação DNS de notify.infinity-solucoes.com; remetente contato@infinity-solucoes.com configurado e testado, publicação depende de aprovação.
+- [ ] Testar os pedidos de orçamento e formulários.
